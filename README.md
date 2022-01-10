@@ -1,0 +1,1 @@
+quick and dirty script to create a dataframe of should be public domain works, the institutions where they reside, the license they are released to the DDB, and if there is a digitised version of it.
